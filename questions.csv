@@ -1,0 +1,8 @@
+question,optionA,optionB,optionC,optionD,answer
+我們上課所使用的筆記是什麼?,Google文件,Word,HackMD,Notion,C
+我們上課所使用的程式軟體是什麼?,Photoshop,Excel,VSCode,PowerPoint,C
+我們上課主要學習的程式語言是什麼?,Python,JavaScript,C++,Java,B
+p5.js 是一個什麼類型的程式庫?,資料庫,繪圖程式庫,音樂播放器,瀏覽器,B
+要在網頁上顯示程式畫面，index.html 主要負責什麼?,儲存資料,網頁結構,動畫,音效,B
+我們常用來管理程式碼的網站是什麼?,YouTube,GitHub,Facebook,Instagram,B
+要讓程式自動重複執行繪圖，p5.js 會用哪個函式?,setup,draw,preload,mousePressed,B
